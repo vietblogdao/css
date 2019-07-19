@@ -76,7 +76,7 @@ div.pp_default .pp_gallery a.pp_arrow_next {
 }
 div.pp_default .pp_nav .pp_play,
 div.pp_default .pp_nav .pp_pause {
-    background: url(../images/prettyPhoto/default/sprite.png) -51px 1px no-repeat;
+    background: url(/images/sprite.png) -51px 1px no-repeat;
     height: 30px;
     width: 30px
 }
@@ -85,7 +85,7 @@ div.pp_default .pp_nav .pp_pause {
 }
 div.pp_default a.pp_arrow_previous,
 div.pp_default a.pp_arrow_next {
-    background: url(../images/prettyPhoto/default/sprite.png) -31px -3px no-repeat;
+    background: url(/images/sprite.png) -31px -3px no-repeat;
     height: 20px;
     width: 20px;
     margin: 4px 0 0
@@ -129,13 +129,13 @@ div.pp_default .pp_description {
     margin: 5px 50px 5px 0
 }
 div.pp_default .pp_bottom .pp_left {
-    background: url(../images/prettyPhoto/default/sprite.png) -78px -127px no-repeat
+    background: url(/images/sprite.png) -78px -127px no-repeat
 }
 div.pp_default .pp_bottom .pp_middle {
     background: url(../images/prettyPhoto/default/sprite_x.png) bottom left repeat-x
 }
 div.pp_default .pp_bottom .pp_right {
-    background: url(../images/prettyPhoto/default/sprite.png) -112px -127px no-repeat
+    background: url(/images/sprite.png) -112px -127px no-repeat
 }
 div.pp_default .pp_loaderIcon {
     background: url(../images/prettyPhoto/default/loader.gif) center center no-repeat
@@ -354,20 +354,20 @@ div.light_square .pp_close {
     cursor: pointer
 }
 div.light_square .pp_nav .pp_play {
-    background: url(../images/prettyPhoto/light_square/sprite.png) -1px -100px no-repeat;
+    background: url(/images/sprite.png) -1px -100px no-repeat;
     height: 15px;
     width: 14px
 }
 div.light_square .pp_nav .pp_pause {
-    background: url(../images/prettyPhoto/light_square/sprite.png) -24px -100px no-repeat;
+    background: url(/images/sprite.png) -24px -100px no-repeat;
     height: 15px;
     width: 14px
 }
 div.light_square .pp_arrow_previous {
-    background: url(../images/prettyPhoto/light_square/sprite.png) 0 -71px no-repeat
+    background: url(/images/sprite.png) 0 -71px no-repeat
 }
 div.light_square .pp_arrow_next {
-    background: url(../images/prettyPhoto/light_square/sprite.png) -22px -71px no-repeat
+    background: url(/images/sprite.png) -22px -71px no-repeat
 }
 div.light_square .pp_next:hover {
     background: url(../images/prettyPhoto/light_square/btnNext.png) center right no-repeat;
@@ -378,13 +378,13 @@ div.light_square .pp_previous:hover {
     cursor: pointer
 }
 div.facebook .pp_top .pp_left {
-    background: url(../images/prettyPhoto/facebook/sprite.png) -88px -53px no-repeat
+    background: url(/images/sprite.png) -88px -53px no-repeat
 }
 div.facebook .pp_top .pp_middle {
     background: url(../images/prettyPhoto/facebook/contentPatternTop.png) top left repeat-x
 }
 div.facebook .pp_top .pp_right {
-    background: url(../images/prettyPhoto/facebook/sprite.png) -110px -53px no-repeat
+    background: url(/images/sprite.png) -110px -53px no-repeat
 }
 div.facebook .pp_content_container .pp_left {
     background: url(../images/prettyPhoto/facebook/contentPatternLeft.png) top left repeat-y
@@ -393,25 +393,25 @@ div.facebook .pp_content_container .pp_right {
     background: url(../images/prettyPhoto/facebook/contentPatternRight.png) top right repeat-y
 }
 div.facebook .pp_expand {
-    background: url(../images/prettyPhoto/facebook/sprite.png) -31px -26px no-repeat;
+    background: url(/images/sprite.png) -31px -26px no-repeat;
     cursor: pointer
 }
 div.facebook .pp_expand:hover {
-    background: url(../images/prettyPhoto/facebook/sprite.png) -31px -47px no-repeat;
+    background: url(/images/sprite.png) -31px -47px no-repeat;
     cursor: pointer
 }
 div.facebook .pp_contract {
-    background: url(../images/prettyPhoto/facebook/sprite.png) 0 -26px no-repeat;
+    background: url(/images/sprite.png) 0 -26px no-repeat;
     cursor: pointer
 }
 div.facebook .pp_contract:hover {
-    background: url(../images/prettyPhoto/facebook/sprite.png) 0 -47px no-repeat;
+    background: url(/images/sprite.png) 0 -47px no-repeat;
     cursor: pointer
 }
 div.facebook .pp_close {
     width: 22px;
     height: 22px;
-    background: url(../images/prettyPhoto/facebook/sprite.png) -1px -1px no-repeat;
+    background: url(/images/sprite.png) -1px -1px no-repeat;
     cursor: pointer
 }
 div.facebook .pp_description {
@@ -421,7 +421,7 @@ div.facebook .pp_loaderIcon {
     background: url(../images/prettyPhoto/facebook/loader.gif) center center no-repeat
 }
 div.facebook .pp_arrow_previous {
-    background: url(../images/prettyPhoto/facebook/sprite.png) 0 -71px no-repeat;
+    background: url(/images/sprite.png) 0 -71px no-repeat;
     height: 22px;
     margin-top: 0;
     width: 22px
@@ -431,7 +431,7 @@ div.facebook .pp_arrow_previous.disabled {
     cursor: default
 }
 div.facebook .pp_arrow_next {
-    background: url(../images/prettyPhoto/facebook/sprite.png) -32px -71px no-repeat;
+    background: url(/images/sprite.png) -32px -71px no-repeat;
     height: 22px;
     margin-top: 0;
     width: 22px
@@ -448,12 +448,12 @@ div.facebook .pp_nav p {
     padding: 0 3px 0 4px
 }
 div.facebook .pp_nav .pp_play {
-    background: url(../images/prettyPhoto/facebook/sprite.png) -1px -123px no-repeat;
+    background: url(/images/sprite.png) -1px -123px no-repeat;
     height: 22px;
     width: 22px
 }
 div.facebook .pp_nav .pp_pause {
-    background: url(../images/prettyPhoto/facebook/sprite.png) -32px -123px no-repeat;
+    background: url(/images/sprite.png) -32px -123px no-repeat;
     height: 22px;
     width: 22px
 }
@@ -466,13 +466,13 @@ div.facebook .pp_previous:hover {
     cursor: pointer
 }
 div.facebook .pp_bottom .pp_left {
-    background: url(../images/prettyPhoto/facebook/sprite.png) -88px -80px no-repeat
+    background: url(/images/sprite.png) -88px -80px no-repeat
 }
 div.facebook .pp_bottom .pp_middle {
     background: url(../images/prettyPhoto/facebook/contentPatternBottom.png) top left repeat-x
 }
 div.facebook .pp_bottom .pp_right {
-    background: url(../images/prettyPhoto/facebook/sprite.png) -110px -80px no-repeat
+    background: url(/images/sprite.png) -110px -80px no-repeat
 }
 div.pp_pic_holder a:focus {
     outline: none
@@ -610,7 +610,7 @@ a.pp_arrow_next {
     margin-top: 7px!important
 }
 a.pp_next {
-    background: url(../images/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;
+    background: url(/images/btnNext.png) 10000px 10000px no-repeat;
     display: block;
     float: right;
     height: 100%;
@@ -618,7 +618,7 @@ a.pp_next {
     width: 49%
 }
 a.pp_previous {
-    background: url(../images/prettyPhoto/light_rounded/btnNext.png) 10000px 10000px no-repeat;
+    background: url(/images/btnNext.png) 10000px 10000px no-repeat;
     display: block;
     float: left;
     height: 100%;
